@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/soumenmanna96" target="blank"><img src="https://img.shields.io/twitter/follow/twsoumenmanna96?logo=twitter&style=for-the-badge" alt="twsoumenmanna96" /></a> </p>
 
-- 🔭 I’m currently working on **https://github.com/soumenprogramming/myportfolio/tree/main/Level%201%20task%202**
+- 🔭 I’m currently working on **https://github.com/soumenprogramming/myportfolio**
 
 - 👨‍💻 All of my projects are available at [https://github.com/soumenprogramming](https://github.com/soumenprogramming)
 
