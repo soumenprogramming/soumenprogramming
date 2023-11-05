@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **mail2soumen007@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/10lhReNNXUSeF-PuXeeKCGxxejHRoTcV2mx2ZgX2HASo/edit?pli=1](https://docs.google.com/document/d/10lhReNNXUSeF-PuXeeKCGxxejHRoTcV2mx2ZgX2HASo/edit?pli=1)
+- 📄 Know about my experiences https://docs.google.com/document/d/1T3Hdk1Mmtuw4me-ndaeTFa_lMZYPYZTIPVmCHPRCBxc/edit?usp=sharing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
