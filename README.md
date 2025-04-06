@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/soumenmanna96" target="blank"><img src="https://img.shields.io/twitter/follow/twsoumenmanna96?logo=twitter&style=for-the-badge" alt="twsoumenmanna96" /></a> </p>
 
-- 🔭 I’m currently working on **https://github.com/soumenprogramming/myportfolio**
+- 🔭 I’m currently working on **(https://github.com/soumenprogramming/E_Learning-App)**
 
 - 👨‍💻 All of my projects are available at [[https://drive.google.com/file/d/1r-j3SsEnSf2FwWYGLj0G5OqkMm2XTtkh/view?usp=sharing](https://drive.google.com/file/d/1V9Z3Ys5mq8Nj4kBBSu5WE3-8pwteBGD2/view?usp=sharing)]
 
