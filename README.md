@@ -5,7 +5,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=soumenprogramming" alt="soumenprogramming" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/soumenmanna96" target="blank"><img src="https://img.shields.io/twitter/follow/twsoumenmanna96?logo=twitter&style=for-the-badge" alt="twsoumenmanna96" /></a> </p>
-<img align="right" alt="coding" width="400" src="<img width="215" height="148" alt="image" src="https://github.com/user-attachments/assets/e5e4cfd0-6d29-43d1-9b8a-08f6e75436f5" />
+<img align="right" alt="coding" width="400" src="<img width="215" height="148" alt="image" src="https://github.com/user-attachments/assets/e5e4cfd0-6d29-43d1-9b8a-08f6e75436f5">
 
 
 - 🔭 I’m currently working on **(https://github.com/soumenprogramming/E_Learning-App)**
