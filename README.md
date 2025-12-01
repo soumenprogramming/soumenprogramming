@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Soumen Manna</h1>
-![Header](./github-header-banner.png)
+<p align="center">
+  <img src="github-header-banner.png" alt="header image" />
+</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soumenprogramming&label=Profile&color=0e75b6&style=flat" alt="soumenprogramming" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=soumenprogramming" alt="soumenprogramming" /></a> </p>
