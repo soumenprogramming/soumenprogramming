@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="github-header-banner.png" alt="header image" />
+  <img src="github-header-banner%20(1).png" alt="header image" />
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soumenprogramming&label=Profile&color=0e75b6&style=flat" alt="soumenprogramming" /> </p>
 
