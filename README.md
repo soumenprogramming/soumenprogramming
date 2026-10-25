@@ -16,7 +16,7 @@
 
 I'm **Soumen Manna**, a Java-focused software engineer based in **Bengaluru, India**, with experience developing and supporting production fintech applications. I enjoy designing maintainable APIs, improving database performance, building event-driven workflows, and taking backend services from local development to the cloud.
 
-- 💼 **Currently:** Associate Technology at **Synechron**, working with Java applications and production support.
+- 💼 **Currently:** Associate Technology at **Synechron**, working with Java applications.
 - 🏗️ **Previously:** Software Development Engineer I at **Trustt (formerly Novopay)**, building fintech backend features.
 - 🔧 **Core focus:** Java, Spring Boot, REST APIs, microservices, SQL, Kafka, Redis and Spring Batch.
 - ☁️ **Cloud & tooling:** AWS, Google Cloud Run, Docker, Jenkins and CI/CD.
